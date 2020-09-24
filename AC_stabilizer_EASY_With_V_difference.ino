@@ -1,6 +1,5 @@
 /*
   How to make this stabilizer See the
-  Instructables -> https://www.instructables.com/id/How-to-Make-AC-220-Volt-Automatic-Stabilizer-Using/
   This is 3 steps Automatic Voltage stabilizer
   1st steps is normal/output
   2nd steps adds 20voltage to output
